@@ -40,3 +40,5 @@ From March to May 2027 I will be a visiting researcher at University College
 London, working with John Shawe-Taylor and Benjamin Guedj.
 
 I am looking for **research scientist internships starting June 2027**. Feel free to reach out!
+
+**Contact:** {% al_email_protect_link site.data.contact.email %}
