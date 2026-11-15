@@ -6,7 +6,7 @@ subtitle: PhD student in Machine Learning · <a href="https://www.uc3m.es">Unive
 
 profile:
   align: right
-  image: prof_pic.jpeg # put your photo at assets/img/prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false
   more_info: >
     <p>Dept. of Signal Theory and Communications</p>
@@ -27,7 +27,7 @@ latest_posts:
 
 I am a PhD student in the Department of Signal Theory and Communications at
 Universidad Carlos III de Madrid, co-advised by
-[Emilio Parrado](LINK) and [Alejandro Lancho](LINK).
+[Emilio Parrado-Hernández](https://emipar.github.io) and [Alejandro Lancho](https://a-lancho.github.io).
 
 My research is on **generalization in machine learning**. I work towards a
 unified theory of generalization that combines **PAC-Bayesian analysis** and
@@ -39,6 +39,4 @@ networks.
 From March to May 2027 I will be a visiting researcher at University College
 London, working with John Shawe-Taylor and Benjamin Guedj.
 
-<!-- Optional: uncomment if you want recruiters to see it
 I am looking for **research scientist internships starting June 2027**. Feel free to reach out!
--->

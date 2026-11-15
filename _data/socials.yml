@@ -1,7 +1,7 @@
-# Keep only the lines you want; delete the rest of the template's entries.
-email: you@example.com # shown on the site; use the address you want public
-scholar_userid: XXXXXXXXXXXX # the "user=" part of your Google Scholar URL
-orcid_id: 0000-0000-0000-0000
+# Icons are shown in the order listed here.
+email: diegoarg@pa.uc3m.es # hidden from scrapers by protect_email: true in _config.yml
+scholar_userid: dI3qWHAAAAAJ
+orcid_id: 0009-0002-0406-3271
+linkedin_username: diegogarciaperezdata
 github_username: Diegogpcm
-linkedin_username: your-linkedin-handle
-cv_pdf: /assets/pdf/cv.pdf # upload your CV to assets/pdf/cv.pdf
+cv_pdf: /assets/pdf/cv.pdf
