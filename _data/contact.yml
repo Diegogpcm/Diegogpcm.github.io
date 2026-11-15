@@ -1,3 +1,0 @@
-# Rendered with {% al_email_protect_link %} in _pages/about.md, so the built HTML
-# never contains the plain address (see protect_email in _config.yml).
-email: diegoarg@pa.uc3m.es

@@ -41,4 +41,4 @@ London, working with John Shawe-Taylor and Benjamin Guedj.
 
 I am looking for **research scientist internships starting June 2027**. Feel free to reach out!
 
-**Contact:** {% al_email_protect_link site.data.contact.email %}
+**Contact:** [diegoarg@pa.uc3m.es](mailto:diegoarg@pa.uc3m.es)
