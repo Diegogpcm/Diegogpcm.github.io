@@ -2,33 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Machine Learning · <a href="https://www.uc3m.es">Universidad Carlos III de Madrid</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg # put your photo at assets/img/prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dept. of Signal Theory and Communications</p>
+    <p>Universidad Carlos III de Madrid</p>
+    <p>Leganés, Spain</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true # shows bib entries marked selected={true}
+social: true # icons from _data/socials.yml
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # items live in _news/
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the Department of Signal Theory and Communications at
+Universidad Carlos III de Madrid, co-advised by
+[Emilio Parrado](LINK) and [Alejandro Lancho](LINK).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is on **generalization in machine learning**. I work towards a
+unified theory of generalization that combines **PAC-Bayesian analysis** and
+**information theory**, and I use it to study phenomena of modern deep learning
+such as double descent, overparameterization and the implicit regularization
+of SGD. I also work on non-vacuous PAC-Bayesian certificates for deep neural
+networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From March to May 2027 I will be a visiting researcher at University College
+London, working with John Shawe-Taylor.
+
+<!-- Optional: uncomment if you want recruiters to see it
+I am looking for **research scientist internships starting June 2027**. Feel free to reach out!
+-->
