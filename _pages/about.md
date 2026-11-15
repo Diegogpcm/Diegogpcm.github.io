@@ -6,7 +6,7 @@ subtitle: PhD student in Machine Learning · <a href="https://www.uc3m.es">Unive
 
 profile:
   align: right
-  image: prof_pic.jpg # put your photo at assets/img/prof_pic.jpg
+  image: prof_pic.jpeg # put your photo at assets/img/prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Dept. of Signal Theory and Communications</p>
@@ -37,7 +37,7 @@ of SGD. I also work on non-vacuous PAC-Bayesian certificates for deep neural
 networks.
 
 From March to May 2027 I will be a visiting researcher at University College
-London, working with John Shawe-Taylor.
+London, working with John Shawe-Taylor and Benjamin Guedj.
 
 <!-- Optional: uncomment if you want recruiters to see it
 I am looking for **research scientist internships starting June 2027**. Feel free to reach out!
